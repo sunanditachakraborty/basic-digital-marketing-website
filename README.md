@@ -17,11 +17,12 @@ A simple **digital marketing website** built using **HTML, CSS, and JavaScript**
 *(Add a screenshot of your project here by uploading an image and linking it in the README)*  
 
 ## 🎯 How to Use  
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/basic-digital-marketing-website.git
-2. Open index.html in your browser
-3. Customize the content to fit your needs
+1. install visual studio code
+2. install the live server extensiom
+3. make two files in the same folder "index.html" and "style.css"
+4. enter the code given accordingly
+5. use the live server extension to rum
+   (other methods are usable too)
 
 💡 Future Improvements
 Add more interactive elements
