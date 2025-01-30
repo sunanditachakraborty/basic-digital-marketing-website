@@ -21,13 +21,13 @@ A simple **digital marketing website** built using **HTML, CSS, and JavaScript**
 5. use the live server extension to rum
    (other methods are usable too)
 
-💡 Future Improvements
+## 💡 Future Improvements
 Add more interactive elements
 Improve the responsiveness
 Enhance UI/UX with animations
 
-🤝 Contributing
+## 🤝 Contributing
 This is a beginner-friendly project, and contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 
-📜 License
+## 📜 License
 This project is free to use and falls under the MIT License.
