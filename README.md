@@ -11,10 +11,7 @@ A simple **digital marketing website** built using **HTML, CSS, and JavaScript**
 ## 📂 Technologies Used  
 - HTML  
 - CSS  
-- JavaScript  
-
-## 📸 Preview  
-*(Add a screenshot of your project here by uploading an image and linking it in the README)*  
+- JavaScript    
 
 ## 🎯 How to Use  
 1. install visual studio code
